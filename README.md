@@ -1,5 +1,7 @@
 ### Gia
-- Pronouns: Nick/Gur
+- Tôi đói, tôi tìm việc.
+- Liên hệ qua mail: 20120070@student.hcmus.edu.vn
+- Link trang bán hàng của tôi: https://shopee.vn/thietgia3452002
 <!--
 **Gia-Huynh/Gia-Huynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

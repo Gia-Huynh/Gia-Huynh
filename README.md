@@ -2,8 +2,8 @@
 - Tôi đói, tôi tìm việc.
 - Liên hệ qua mail: thuynh38@gmu.edu
 - Mail cũ của tôi: 20120070@student.hcmus.edu.vn
-- Link trang bán hàng của tôi: https://www.ebay.com/usr/zahuynh và https://shopee.vn/thietgia3452002
-- Web cá nhân: blog.thietgia.com
+- Link trang bán hàng của tôi: ebay.com/usr/zahuynh và shopee.vn/thietgia3452002
+- Web portfolio: gia-huynh.github.io
 - Web xưởng Inox: thietgia.com
 <!--
 **Gia-Huynh/Gia-Huynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
